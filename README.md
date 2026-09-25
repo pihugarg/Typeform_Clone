@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Typeform Clone - Fullstack Web Application
 
 A fullstack clone of the Typeform platform replicating Typeform's signature design, user experience, drag-and-drop style form builder, and animated one-question-at-a-time conversational respondent flow.
@@ -151,3 +152,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 The SQLite database is created at `backend/typeform.db`. Run `python seed.py` from
 the backend directory to reset it with the sample published forms and responses.
+=======
+# Typeform_Clone
+>>>>>>> 62cac2a93fbebe6bc23c8cbf456c02549f809dfb
